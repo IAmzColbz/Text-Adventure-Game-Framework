@@ -1,0 +1,5 @@
+This is a project I am developing to improve my skill in python.
+
+This project uses Flet, a python structure for google's flutter in order to create a viable ui.
+
+The purpose is to create a basic Text-Adventure Game Framework.
