@@ -1,8 +1,8 @@
 import flet as ft
+from modules import functions as func
 
-def main(page: ft.Page):
+
+def main(page: ft.page):
     pass
-
-e = 'mc2'
 
 ft.app(target=main)
